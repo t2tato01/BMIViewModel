@@ -1,10 +1,9 @@
 ## Body Mass Index Calculator using ViewModel
 
-![Screenshot](ScreenshotBMIViewModel1.png)
-![Screenshot](ScreenshotBMIViewModel2.png)
-
 ### Description
 This Android application, developed using Kotlin and Jetpack Compose, calculates the Body Mass Index (BMI) based on a person's height and weight. The formula used for calculating BMI is weight / (height * height). The app utilizes a ViewModel class to manage all necessary information and operations.
+![Screenshot](ScreenshotBMIViewModel1.png)
+![Screenshot](ScreenshotBMIViewModel2.png)
 
 ### Features
 - Calculates BMI based on user-provided height and weight.
